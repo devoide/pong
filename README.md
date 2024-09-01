@@ -1,6 +1,6 @@
 # Pong
 
-**Pong** is a retro-style game developed in Java, inspired by the classic arcade game. It offers a simple yet engaging gameplay experience reminiscent of early video gaming. The game interface is built using the Java Swing module, which provides a lightweight and flexible framework for creating graphical user interfaces.
+**Pong** is a retro-style game developed in Java, inspired by the classic arcade game. It offers a simple yet engaging gameplay experience reminiscent of early video gaming. The game interface is built using the Java Swing module, which provides a lightweight and flexible framework for creating graphical user interfaces. 
 
 ## Download and Installation
 
