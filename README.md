@@ -16,6 +16,6 @@ To enjoy **Pong**, please follow these steps:
    - Once the `pong.jar` file is downloaded, double-click on the file to launch the game. If the file does not open automatically, it may be associated with a different program (e.g., a ZIP or RAR file). In this case, right-click on the `pong.jar` file and select "Open with" > "Java SE".
 
 4. **Start Playing:**
-   - Upon successful launch, the game window, created with the Swing module, will appear, and you can start playing **Pong** immediately.
+   - Upon successful launch, the game window, created with the Swing module, will appear, and you can start playing **Pong** immediately with the WS and arrow keys.
 
 If you encounter any issues during installation or gameplay, please ensure that your Java environment is correctly configured.
