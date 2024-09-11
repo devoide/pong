@@ -1,21 +1,18 @@
-# Pong
+# Pong Game
 
-**Pong** is a retro-style game developed in Java, inspired by the classic arcade game. It offers a simple yet engaging gameplay experience reminiscent of early video gaming. The game interface is built using the Java Swing module, which provides a lightweight and flexible framework for creating graphical user interfaces. 
+Enjoy a classic game of Pong directly on your computer. Follow these instructions to download and run the game.
 
-## Download and Installation
+## Installation and Running the Game
 
-To enjoy **Pong**, please follow these steps:
+### Step 1: Download the Project
+- Clone or download the `Pong` project from the GitHub repository to your local machine.
 
-1. **Download the Game:**
-   - Download the `pong.jar` file from the provided link or repository.
+### Step 2: Ensure Java is Installed
+- Ensure that the Java Development Kit (JDK) or Java Runtime Environment (JRE) is installed on your computer AND added to your PATH. If Java is not installed, download and install it from [Oracle's Java SE Downloads page](https://www.oracle.com/java/technologies/javase-downloads.html).
 
-2. **Ensure Java is Installed:**
-   - Ensure that the Java Development Kit (JDK) or Java Runtime Environment (JRE) is installed on your computer. If you do not have Java installed, you can download it [here](https://www.oracle.com/java/technologies/javase-downloads.html).
-
-3. **Run the Game:**
-   - Once the `pong.jar` file is downloaded, double-click on the file to launch the game. If the file does not open automatically, it may be associated with a different program (e.g., a ZIP or RAR file). In this case, right-click on the `pong.jar` file and select "Open with" > "Java SE".
-
-4. **Start Playing:**
-   - Upon successful launch, the game window, created with the Swing module, will appear, and you can start playing **Pong** immediately with the WS and arrow keys.
-
-If you encounter any issues during installation or gameplay, please ensure that your Java environment is correctly configured.
+### Step 3: Run the Game
+- Navigate to the `pinpong` directory where you've downloaded the project.
+- Open a terminal or command prompt in this directory.
+- To start the game, run the provided shell script by typing the following command:
+  ```bash
+  ./build.sh
